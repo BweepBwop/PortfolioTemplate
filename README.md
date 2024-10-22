@@ -1,6 +1,6 @@
 # 📱 **Creating a Portfolio App for a Friend**
 
-This project is a **portfolio app** built with React Native to showcase my friend **Alyssa Marie Tundag's** profile. The app provides a clean and interactive interface with animated text and a teal-themed design. It is designed to give a pleasant and professional look, featuring typing effects to introduce Alyssa’s details in an engaging way.
+This project is a **portfolio app** built with React Native to showcase my friend **Alyssa's** profile. The app provides a clean and interactive interface with animated text and a teal-themed design. It is designed to give a pleasant and professional look, featuring typing effects to introduce Alyssa’s details in an engaging way.
 
 ---
 
