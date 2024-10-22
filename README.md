@@ -1,11 +1,46 @@
-# Sample Snack app
+# 📱 **Creating a Portfolio App for a Friend**
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This project is a **portfolio app** built with React Native to showcase my friend **Alyssa Marie Tundag's** profile. The app provides a clean and interactive interface with animated text and a teal-themed design. It is designed to give a pleasant and professional look, featuring typing effects to introduce Alyssa’s details in an engaging way.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## ✨ **Features**  
+- **Typed text animation**: Smooth letter-by-letter reveal for the introduction and portfolio title.
+- **Teal-themed design**: Inspired by the following palette:  
+  - `#243642`  
+  - `#387478`  
+  - `#629584`  
+  - `#E2F1E7`  
+- **Responsive layout**: Uses `flexbox` for responsive design to adjust the content.
+- **Smooth transitions and animations** for an interactive experience.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+---
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🔨 **How I Made It**
+
+1. **Set up the React Native environment**:  
+   Installed `react-native` dependencies and created the project using the following:
+   ```bash
+   npx react-native init PortfolioApp
+2. **Implemented Typed Animation**:  
+   Used a custom hook to create the typing animation that reveals text letter by letter.
+
+3. ** Designed the Layout with Flexbox**:
+    Ensured that the text is aligned properly using absolute positioning and flexbox for the main view.
+
+4. **Integrated the Theme**:
+    Added a teal-inspired palette to create a pleasant user experience. All colors are consistent with the design theme.
+
+
+# 📚**Technologies and Languages Used**
+**React Native: For building the mobile app interface.**
+**JavaScript: Core programming language for logic and component creation.**
+**react-native-animated-text: For adding smooth text animations.**
+**CSS-in-JS (StyleSheet): For component-level styling.**
+
+
+# 📋 **Future Improvements**
+**Add more pages (e.g., Resume, Projects, Contact).**
+**Integrate social media links.**
+**Implement animations for page transitions.**
+**Add dark mode support.**
