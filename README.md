@@ -33,14 +33,14 @@ This project is a **portfolio app** built with React Native to showcase my frien
 
 
 # 📚**Technologies and Languages Used**
-**React Native: For building the mobile app interface.**
-**JavaScript: Core programming language for logic and component creation.**
-**react-native-animated-text: For adding smooth text animations.**
-**CSS-in-JS (StyleSheet): For component-level styling.**
+- **React Native: For building the mobile app interface.**
+- **JavaScript: Core programming language for logic and component creation.**
+- **react-native-animated-text: For adding smooth text animations.**
+- **CSS-in-JS (StyleSheet): For component-level styling.**
 
 
 # 📋 **Future Improvements**
-**Add more pages (e.g., Resume, Projects, Contact).**
-**Integrate social media links.**
-**Implement animations for page transitions.**
-**Add dark mode support.**
+- **Add more pages (e.g., Resume, Projects, Contact).**
+- **Integrate social media links.**
+- **Implement animations for page transitions.**
+- **Add dark mode support.**
